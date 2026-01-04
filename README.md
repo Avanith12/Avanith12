@@ -20,7 +20,7 @@ I’m a Master’s student in Computer Science at the University of Massachusett
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanith12&bg_color=0d1117&color=00C853&line=00C853&point=00C853&area=true&hide_border=true)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Avanith12&show_icons=true&theme=dark&hide_border=true&icon_color=00C853)
+
 
 
 
