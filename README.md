@@ -27,6 +27,5 @@ I’m a Master’s student in Computer Science at the University of Massachusett
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanamarlapudi.avanith@gmail.com)
 
 Thanks for stopping by!  
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="140">
 ![snake animation](https://raw.githubusercontent.com/Avanith12/Avanith12/output/github-contribution-grid-snake.svg)
 
