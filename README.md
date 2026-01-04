@@ -25,5 +25,5 @@ I’m a Master’s student in Computer Science at the University of Massachusett
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://avanith12.github.io/Avanith-Kanamarlapudi/Portfolio/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanith-kanamarlapudi-8aa081204/)
 Thanks for stopping by!  
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="140">
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="140">
 
