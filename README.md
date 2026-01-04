@@ -4,10 +4,9 @@
 
 Hello, I’m Avanith. I enjoy building things, contributing to open-source projects, and learning by experimenting with real systems.
 
-I’m a Master’s student in Computer Science at the University of Massachusetts Boston. My work and interests revolve around machine learning, medical image analysis, and interactive visualization, especially projects that turn research ideas into usable tools.
+I’m a Master’s student in Computer Science at the University of Massachusetts Boston. My work focuses on machine learning and medical image analysis, where I build and experiment with research-driven tools and interactive visualizations using Python, deep learning frameworks, and web technologies.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanith12&bg_color=0d1117&color=00C853&line=00C853&point=00C853&area=true&hide_border=true)
-
 
 Portfolio: https://avanith12.github.io/Avanith-Kanamarlapudi/Portfolio/  
 LinkedIn: https://www.linkedin.com/in/avanith-kanamarlapudi-8aa081204/
