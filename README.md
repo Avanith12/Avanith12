@@ -8,5 +8,5 @@ I’m a Master’s student in Computer Science at the University of Massachusett
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanith12&bg_color=0d1117&color=00C853&line=00C853&point=00C853&area=true&hide_border=true)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://avanith12.github.io/Avanith-Kanamarlapudi/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/avanith-kanamarlapudi-8aa081204/)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://avanith12.github.io/Avanith-Kanamarlapudi/Portfolio/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanith-kanamarlapudi-8aa081204/)
