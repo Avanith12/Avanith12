@@ -7,7 +7,7 @@ Hello, I’m Avanith. I enjoy building things, contributing to open-source proje
 
 I’m a Master’s student in Computer Science at the University of Massachusetts Boston. My work focuses on machine learning and medical image analysis, where I build and experiment with research-driven tools and interactive visualizations using Python, deep learning frameworks, and web technologies.
 
-## **Tool I Use**
+## **Tools I Use**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,pandas&theme=dark" />
