@@ -9,13 +9,33 @@ I’m a Master’s student in Computer Science at the University of Massachusett
 
 ## **Tools I Use**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,sklearn,numpy,pandas&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=keras&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></td>
+    <td></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,threejs,html,css,flask,mysql,docker,git,aws,jupyter,vscode&theme=dark" />
-</p>
 
 
 
