@@ -10,12 +10,13 @@ I’m a Master’s student in Computer Science at the University of Massachusett
 ## **Tools I Use**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,sklearn,numpy,pandas&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,threejs,flask,mysql,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,threejs,html,css,flask,mysql,docker,git,aws,jupyter,vscode&theme=dark" />
 </p>
+
 
 
 
