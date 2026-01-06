@@ -14,7 +14,7 @@ I’m a Master’s student in Computer Science at the University of Massachusett
     <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=keras&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" /></td>
   </tr>
   <tr>
