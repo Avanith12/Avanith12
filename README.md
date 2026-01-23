@@ -52,4 +52,3 @@ I’m a Master’s student in Computer Science at the University of Massachusett
 Thanks for stopping by!
 ![snake animation](https://raw.githubusercontent.com/Avanith12/Avanith12/output/github-contribution-grid-snake.svg)
 
-hehe
