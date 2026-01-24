@@ -31,6 +31,14 @@ I’m a Master’s student in Computer Science at the University of Massachusett
     <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></td>
   </tr>
+  <tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=huggingface&theme=dark" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></td>
+</tr>
+
 </table>
 
 
