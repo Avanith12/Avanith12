@@ -32,14 +32,19 @@ I’m a Master’s student in Computer Science at the University of Massachusett
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></td>
   </tr>
   <tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=huggingface&theme=dark" /></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></td>
-</tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></td>
 
+    <!-- ✅ Hugging Face (badge because skillicons doesn't support it) -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+    </td>
+
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></td>
+  </tr>
 </table>
+
 
 
 
