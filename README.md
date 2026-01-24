@@ -36,9 +36,9 @@ I’m a Master’s student in Computer Science at the University of Massachusett
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></td>
 
-    <!-- ✅ Hugging Face (badge because skillicons doesn't support it) -->
+    <!-- Hugging Face (working icon) -->
     <td align="center">
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
     </td>
 
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></td>
