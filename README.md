@@ -36,8 +36,8 @@ I’m a Master’s student in Computer Science at the University of Massachusett
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></td>
 
-    <!-- Hugging Face (working icon) -->
-    <td align="center">
+    
+  <td align="center">
       <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
     </td>
 
