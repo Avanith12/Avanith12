@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&color=00C853&width=700&lines=Hello%2C+I%E2%80%99m+Avanith.;I+build+and+contribute+to+open-source+projects.;Machine+Learning+%7C+Medical+Imaging+%7C+Visualization.)](https://git.io/typing-svg)
 
-just in case
 
 Hello, I’m Avanith. I enjoy building things, contributing to open-source projects, and learning by experimenting with real systems.
 
