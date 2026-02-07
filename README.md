@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&color=00C853&width=700&lines=Hello%2C+I%E2%80%99m+Avanith.;I+build+and+contribute+to+open-source+projects.;Machine+Learning+%7C+Medical+Imaging+%7C+Visualization.)](https://git.io/typing-svg)
 
 
-Hello, I’m Avanith. I enjoy building things, contributing to open-source projects, and learning by experimenting with real systems.
+Hello,  I’m Avanith. I enjoy building things, contributing to open-source projects, and learning by experimenting with real systems.
 
 I’m a Master’s student in Computer Science at the University of Massachusetts Boston. My work focuses on machine learning and medical image analysis, where I build and experiment with research-driven tools and interactive visualizations using Python, deep learning frameworks, and web technologies.
 
