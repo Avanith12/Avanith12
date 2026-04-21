@@ -60,6 +60,6 @@ I’m a Master’s student in Computer Science at the University of Massachusett
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanith-kanamarlapudi-8aa081204/)
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanamarlapudi.avanith@gmail.com)
 ---
-
+![Snake animation](https://github.com/Avanith12/Avanith12/blob/output/github-contribution-grid-snake.svg)
 Thanks for stopping by!
 
