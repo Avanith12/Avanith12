@@ -5,7 +5,7 @@
 
 Hello, I’m Avanith. I enjoy building things, contributing to open-source projects, and learning by experimenting with real systems.
 
-I’m a Master’s student in Computer Science at the University of Massachusetts Boston. My work focuses on machine learning and medical image analysis, where I build and experiment with research-driven tools and interactive visualizations using Python, deep learning frameworks, and web technologies.
+I’m a PHD student in Computer Science at the University of Massachusetts Boston. My work focuses on machine learning and medical image analysis, where I build and experiment with research-driven tools and interactive visualizations using Python, deep learning frameworks, and web technologies.
 
 ## **Tools I Use**
 
